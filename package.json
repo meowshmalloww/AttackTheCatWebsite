@@ -1,0 +1,12 @@
+{
+  "name": "cat-break-meme-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny cat meme gallery demo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
